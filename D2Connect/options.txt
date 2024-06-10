@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\demo\Documents\VuGen\Scripts\Docum_preview
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\users\demo\documents\vugen\scripts\docum_preview\\logfile.log
+c:\users\demo\documents\vugen\scripts\docum_preview\\combined_Docum_preview.c
+c:\users\demo\documents\vugen\scripts\docum_preview\\pre_cci.c

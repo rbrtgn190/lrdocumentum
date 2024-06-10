@@ -1,0 +1,30 @@
+Warning: Failed to get NV emulation handle.
+Virtual User Script started at : 2024-06-10 09:52:44
+TruClient Replay (build 0157) for LoadRunner Professional 2024.1.0, build 0264. OS: Windows 2019, Browser: Chromium 120.0.6099.63, initialized on 2024/06/10 at 09:52:42 (1718013162.552s)
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "T0_LoginScreen" started.
+Warning: Failed to get NV emulation handle.
+t=00005002ms: Step 1: Navigate to "http://vm-aodemo:7000/D2-Smartview" started    [MsgId: MMSG-205180]
+t=00006579ms: Step 1: Navigate to http://vm-aodemo:7000/D2-Smartview successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00006581ms: Step 2: Wait until Sign in button exists started    [MsgId: MMSG-205180]
+t=00006803ms: Step 2: Wait until Sign in button exists successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "T0_LoginScreen" ended with a "Pass" status (Duration: 1.8040 Think Time: 0.0010 Wasted Time: 0.6150).
+t=00007312ms: Step 3: Click on User name textbox started    [MsgId: MMSG-205180]
+t=00009530ms: Step 3: Click on User name textbox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00010037ms: Step 4: Type mp_author in User name textbox started    [MsgId: MMSG-205180]
+t=00013154ms: Step 4: Type mp_author in User name textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00013665ms: Step 5: Click on Password passwordbox started    [MsgId: MMSG-205180]
+t=00015883ms: Step 5: Click on Password passwordbox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00016397ms: Step 6: Type ********** in Password passwordbox started    [MsgId: MMSG-205180]
+t=00020001ms: Step 6: Type ********** in Password passwordbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "T1_Login" started.
+Warning: Failed to get NV emulation handle.
+t=00020506ms: Step 7: Click on Sign in button started    [MsgId: MMSG-205180]
+t=00021404ms: Step 7: Click on Sign in button successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00021406ms: Step 11: Wait until Document list  exists started    [MsgId: MMSG-205180]
+t=00024742ms: Step 11: Wait until Document list  exists successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "T1_Login" ended with a "Pass" status (Duration: 4.2370 Think Time: 0.0010 Wasted Time: 0.5620).
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
