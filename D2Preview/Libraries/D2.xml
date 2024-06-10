@@ -1,0 +1,825 @@
+<truLibrary engineVersion="2024.1.0.157" timestamp="Mon Jun 10 2024 13:26:52 GMT+0000 (Coordinated Universal Time)">
+<step type="library" stepId="step:{7fd0fc79-536f-c37b-6d26-68cd7e9c302c}" action="D2" level="43" arguments="{}" snapshotId="lefmotqm"><step type="function" stepId="step:{25d4c210-c5f8-c2fc-2340-b947212d49c5}" action="Connect" level="1" arguments="{}" snapshotId="eubvwfkp" index="1"><step type="block" stepId="step:{357f2554-d0ba-2fe3-1cc3-8c0ec2ee94b3}" action="internal" level="43" arguments="{}" snapshotId="jlcdwiekk"><step type="testObject" testObject="testObj:{00000000-0000-0000-0000-000000000001}" stepId="step:{cde60821-d675-fd48-3a1e-10b40bf2300e}" action="Navigate" level="1" arguments="{&quot;Location&quot;:{&quot;value&quot;:&quot;URL&quot;,&quot;evalJavaScript&quot;:false,&quot;param&quot;:true}}" snapshotId="pufxvggah" index="1" recDuration="5" autoEndEventChrome="Step network completed" manualDuration="0"/><step type="testObject" stepId="step:{40ee5419-767a-42f7-811d-104b0203563a}" action="Wait" level="1" arguments="{}" snapshotId="frlvrpr" index="2" testObject="testObj:{ef2cc997-ffb6-5e48-b045-54625874ccd7}"/><step type="testObject" testObject="testObj:{3396ff5b-8e98-80af-3e80-79443e4cce0c}" stepId="step:{ad1e44dd-b040-6790-79ba-4a8308ebc100}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:33},&quot;Y Coordinate&quot;:{&quot;value&quot;:18}}" snapshotId="vuvvtcezu" index="3" autoEndEventChrome="Step network completed" manualDuration="0"/><step type="testObject" testObject="testObj:{3396ff5b-8e98-80af-3e80-79443e4cce0c}" stepId="step:{92a8b113-9c75-b02d-cd95-9b4f54be8767}" action="Type" level="1" arguments="{&quot;Value&quot;:{&quot;value&quot;:&quot;User&quot;,&quot;param&quot;:true}}" snapshotId="nxncys" unfinalized="true" index="4" recDuration="5" autoEndEventChrome="Action completed" manualDuration="0"/><step type="testObject" testObject="testObj:{85ee3c60-ae19-dff0-9079-f32126aeedd5}" stepId="step:{831191a1-ee5a-f292-cfac-b6804fce290e}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:32},&quot;Y Coordinate&quot;:{&quot;value&quot;:21}}" snapshotId="znoxqaob" index="5" autoEndEventChrome="Step network completed" manualDuration="0"/><step type="testObject" testObject="testObj:{85ee3c60-ae19-dff0-9079-f32126aeedd5}" stepId="step:{5e361e54-55be-3dc7-c8e5-194c3cb6d106}" action="Type" level="1" arguments="{&quot;Value&quot;:{&quot;value&quot;:&quot;Pwd&quot;,&quot;param&quot;:true}}" snapshotId="atlkju" unfinalized="true" index="6" recDuration="6" autoEndEventChrome="Action completed" manualDuration="0"/><step type="testObject" testObject="testObj:{ef2cc997-ffb6-5e48-b045-54625874ccd7}" stepId="step:{2c20eaa7-3b33-8733-46fc-1fd3b9b78330}" action="Click" level="1" arguments="{&quot;X Coordinate&quot;:{&quot;value&quot;:78},&quot;Y Coordinate&quot;:{&quot;value&quot;:32}}" snapshotId="qhcmvywsg" index="7" recDuration="10" autoEndEventChrome="Step network completed"/><step type="block" stepId="step:{6a1a18f2-fc7d-7415-025e-9ec1bbe8bace}" action="BlockStep.Mouseover" level="3" arguments="{}" snapshotId="xzjiyhboj" index="8"><step type="testObject" testObject="testObj:{cb886072-b6c5-0e7a-c4f6-51a7427a73bf}" stepId="step:{3d9a5dd6-1cc3-a872-4823-fbb6738994fa}" action="Mouse Over" level="3" arguments="{}" snapshotId="ywehmvte" index="1"/><step type="testObject" testObject="testObj:{812d95ad-fe0a-77b0-c731-3a141dc8720d}" stepId="step:{3d95fe58-191a-4d25-5f80-050530d8701b}" action="Mouse Over" level="3" arguments="{}" snapshotId="eazpmveo" index="2" recDuration="6"/></step><step type="block" stepId="step:{64d987dc-666d-71be-0090-d1c2862e3812}" action="BlockStep.Mouseover" level="3" arguments="{}" snapshotId="dvhlpg" index="9"><step type="testObject" testObject="testObj:{c731a3cf-ec19-a538-323f-2c1e5947970c}" stepId="step:{f7cb3006-afb7-2650-bb9d-348b5b33c75f}" action="Mouse Over" level="3" arguments="{}" snapshotId="iivazzhv" index="1" recDuration="5"/><step type="testObject" testObject="testObj:{20ba8b33-6340-f1c8-3da9-88e4a6826692}" stepId="step:{0a7a7fb2-d883-6dfa-e9bc-7dd48f621828}" action="Mouse Over" level="3" arguments="{}" snapshotId="dzulvje" index="2"/></step><step type="block" stepId="step:{0cdba06e-6e82-165a-00ea-4c890562fd34}" action="BlockStep.Mouseover" level="3" arguments="{}" snapshotId="lextkyp" index="10"><step type="testObject" testObject="testObj:{d9c6c10e-ec9b-7ecc-f533-65a9c1e7947c}" stepId="step:{70ac3e68-44ec-148c-3273-7833482b387b}" action="Mouse Over" level="3" arguments="{}" snapshotId="iqgvtclge" index="1"/></step><step type="testObject" stepId="step:{ee32c7a4-12af-b035-1c4b-9d28d7c02dd5}" action="Wait" level="1" arguments="{}" snapshotId="bgeyx" index="11" testObject="testObj:{c0c1a0f8-7822-76fa-d2a7-5ca07fc531c8}"/></step></step></step>
+<testObjects><testObject testObjId="testObj:{00000000-0000-0000-0000-000000000001}" platform="web" manualName="browser"><roles><role>browser</role></roles></testObject><testObject testObjId="testObj:{ef2cc997-ffb6-5e48-b045-54625874ccd7}" platform="web" autoName="Sign in"><roles><role>element</role><role>focusable</role><role>button</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//button[text()=\"Sign in\"])[1]",
+	"suggestions":["(//button[text()=\"Sign in\"])[1]","(/html/body/div[2]/div/div[1]/div[2]/div/div/div/main/div/div[3]/form/button[1])[1]"],
+	"jsSuggestion":"evalXPath(\"(//button[text()=\\\"Sign in\\\"])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.54559,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"BUTTON","score":0.1},
+		{"id":"class","value":"login-btn btn-submit login-btn-enabled","score":0.15},
+		{"id":"text","value":{"text":"Sign in","tagName":"BUTTON"},"score":0.4},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 3,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 3,
+						"class": 2,
+						"text": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0.24264757350000002,
+				"totalCandidates": 3
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"BUTTON"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Sign in"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 3,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{3396ff5b-8e98-80af-3e80-79443e4cce0c}" platform="web" autoName="User name"><roles><role>element</role><role>focusable</role><role>textbox</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//input[@type=\"text\"])[1]",
+	"suggestions":["(//input[@type=\"text\"])[1]","(/html/body/div[2]/div/div[1]/div[2]/div/div/div/main/div/div[3]/form/div[2]/input)[1]"],
+	"jsSuggestion":"evalXPath(\"(//input[@type=\\\"text\\\"])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.2805175,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"leaf","value":true,"score":0.01},
+		{"id":"input/type","value":"text","score":0.05},
+		{"id":"tagName","value":"INPUT","score":0.1},
+		{"id":"class","value":"input-username textbox binf-form-control binf-input-lg textbox-empty","score":0.15}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 4,
+				"maxObjsPerElector": 20000,
+				"total": {
+						"leaf": null,
+						"input/type": 2,
+						"tagName": 3,
+						"class": 3
+				},
+				"secondaryScore": 0.28051469482499997,
+				"similarPrimaryScore": 0.28051469482499997,
+				"similarSecondaryScore": 0,
+				"similarTotal": 2,
+				"similarOrdinal": 1,
+				"totalCandidates": 2
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"INPUT"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"input/type",
+			"args":[
+				{"op":"property", "args":"input/type"},
+				{"op": "value", "args":"text"}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["input-username","textbox","binf-form-control","binf-input-lg","textbox-empty"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 3,
+						"input/type": 2,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{85ee3c60-ae19-dff0-9079-f32126aeedd5}" platform="web" autoName="Password"><roles><role>element</role><role>focusable</role><role>textbox</role><role>passwordbox</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//input[@type=\"password\"])[1]",
+	"suggestions":["(//input[@type=\"password\"])[1]","(/html/body/div[2]/div/div[1]/div[2]/div/div/div/main/div/div[3]/form/div[3]/input)[1]"],
+	"jsSuggestion":"evalXPath(\"(//input[@type=\\\"password\\\"])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.2805175,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"INPUT","score":0.1},
+		{"id":"class","value":"input-password textbox binf-form-control binf-input-lg textbox-empty","score":0.15},
+		{"id":"input/type","value":"password","score":0.05},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 5,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 3,
+						"class": 3,
+						"input/type": 1,
+						"leaf": null
+				},
+				"secondaryScore": 0,
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"INPUT"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"input/type",
+			"args":[
+				{"op":"property", "args":"input/type"},
+				{"op": "value", "args":"password"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 3,
+						"input/type": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{cb886072-b6c5-0e7a-c4f6-51a7427a73bf}" platform="web" autoName="Loader"><roles><role>element</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"notVisible":true,
+"implData":{
+	"value":"(/html/body/div[2]/div/div[2]/div/div[1]/div[1])[1]",
+	"suggestions":["(/html/body/div[2]/div/div[2]/div/div[1]/div[1])[1]"],
+	"jsSuggestion":"evalXPath(\"(/html/body/div[2]/div/div[2]/div/div[1]/div[1])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.25022350000000004,
+"contextObj":"testObj:{1262b8ad-6712-e39a-3289-dd0a661b2889}",
+"notVisible":true,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"DIV","score":0.01},
+		{"id":"class","value":"loader","score":0.15},
+		{"id":"leaf","value":true,"score":0.01},
+		{"id":"position","value":{"pos":"relative"},"score":0.1}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 43,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 43,
+						"class": 1,
+						"leaf": null,
+						"position": null
+				},
+				"secondaryScore": 0.053311966875,
+				"totalCandidates": 3
+		},
+		"testObj:{1262b8ad-6712-e39a-3289-dd0a661b2889}": {
+				"totalObjs": 2,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 2,
+						"class": 1,
+						"leaf": null,
+						"position": null
+				},
+				"secondaryScore": 0,
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"notVisible":true,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"DIV"}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["loader"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 43,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{812d95ad-fe0a-77b0-c731-3a141dc8720d}" platform="web" autoName="Loading.."><roles><role>element</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[3]/div[2])[1]",
+	"suggestions":["(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[3]/div[2])[1]"],
+	"jsSuggestion":"evalXPath(\"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[3]/div[2])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.5501341,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"DIV","score":0.01},
+		{"id":"class","value":"csui-common-loading-parent-wrapper","score":0.15},
+		{"id":"text","value":{"text":"Loading","tagName":"DIV"},"score":0.4},
+		{"id":"leaf","value":false,"score":0.01},
+		{"id":"position","value":{"pos":"relative"},"score":0.1}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 35,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 258,
+						"class": 7,
+						"text": 35,
+						"leaf": null,
+						"position": null
+				},
+				"secondaryScore": 0.550128598659,
+				"similarPrimaryScore": 0.550128598659,
+				"similarSecondaryScore": 0.4119358806,
+				"similarTotal": 7,
+				"similarOrdinal": 2,
+				"totalCandidates": 21
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"DIV"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Loading.."}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["csui-common-loading-parent-wrapper"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 258,
+						"text": 35,
+						"class": 3
+				},
+				"totalCandidates": 3,
+				"similarOrdinal": {
+						"op": "value",
+						"args": 1
+				}
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{c731a3cf-ec19-a538-323f-2c1e5947970c}" platform="web" autoName="Find Outstanding Task..."><roles><role>element</role><role>focusable</role><role>listitem</role><role>link</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[2]/div/a[5])[1]",
+	"suggestions":["(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[2]/div/a[5])[1]"],
+	"jsSuggestion":"evalXPath(\"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[2]/div/a[5])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.64804609,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"A","score":0.01},
+		{"id":"role","value":"treeitem","score":0.05},
+		{"id":"text","value":{"text":"Find Outstanding Task Participants","tagName":"A"},"score":0.4},
+		{"id":"a/href","value":{"url":"http://vm-aodemo:/D-Smartview/ui/#/search/query_id/efc","protocol":"http:","host":"vm-aodemo","pathname":"/D-Smartview/ui/","search":""},"score":0.30000000000000004},
+		{"id":"leaf","value":false,"score":0.01},
+		{"id":"position","value":{"pos":"relative"},"score":0.1}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 30,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 25,
+						"role": 14,
+						"text": 1,
+						"a/href": 5,
+						"leaf": null,
+						"position": null
+				},
+				"secondaryScore": 0.4134060158985001,
+				"totalCandidates": 13
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"A"}
+			]
+			},
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"role",
+			"args":[
+				{"op":"property", "args":"role"},
+				{"op": "value", "args":"treeitem"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Find Outstanding Task Participants"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 25,
+						"role": 13,
+						"text": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{20ba8b33-6340-f1c8-3da9-88e4a6826692}" platform="web" autoName="Searches"><roles><role>element</role><role>heading</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//h2[text()=\"Searches\"])[1]",
+	"suggestions":["(//h2[text()=\"Searches\"])[1]","(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[1]/div[2]/h2)[1]","(//h2[@id=\"dlgTitle4911\"])[1]"],
+	"jsSuggestion":"evalXPath(\"(//h2[text()=\\\"Searches\\\"])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.72008344,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"H2","score":0.01},
+		{"id":"id","value":{"id":"dlgTitle4911","isValidWord":false},"score":0.2},
+		{"id":"class","value":"csui-heading","score":0.15},
+		{"id":"text","value":{"text":"Searches","tagName":"H2"},"score":0.4},
+		{"id":"title","value":"Searches","score":0.3},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 13,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 6,
+						"id": 6,
+						"class": 12,
+						"text": 1,
+						"title": 2,
+						"leaf": null
+				},
+				"secondaryScore": 0.3335286646800001,
+				"totalCandidates": 6
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"H2"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Searches"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"title",
+			"args":[
+				{"op":"property", "args":"title"},
+				{"op": "value", "args":"Searches"}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 6,
+						"text": 1,
+						"title": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{d9c6c10e-ec9b-7ecc-f533-65a9c1e7947c}" platform="web" autoName="Searches"><roles><role>element</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[1])[1]",
+	"suggestions":["(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[1])[1]"],
+	"jsSuggestion":"evalXPath(\"(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div[1])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.6501043,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"DIV","score":0.01},
+		{"id":"class","value":"tile-header","score":0.15},
+		{"id":"text","value":{"text":"Searches","tagName":"DIV"},"score":0.4},
+		{"id":"leaf","value":false,"score":0.01},
+		{"id":"headline","value":{"text":"Searches","tagName":"H2"},"score":0.3}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 7,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 295,
+						"class": 6,
+						"text": 2,
+						"leaf": null,
+						"headline": null
+				},
+				"secondaryScore": 0.5426145738,
+				"totalCandidates": 7
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"DIV"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Searches"}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["tile-header"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 295,
+						"text": 2,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{c0c1a0f8-7822-76fa-d2a7-5ca07fc531c8}" platform="web" autoName="Document list"><roles><role>element</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"value":"(//div[text()=\"Document list\"])[1]",
+	"suggestions":["(//div[text()=\"Document list\"])[1]","(/html/body/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[1]/div/div/a/div[2]/div[1])[1]"],
+	"jsSuggestion":"evalXPath(\"(//div[text()=\\\"Document list\\\"])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.500149,
+"implData":{
+	"ctxScore":0,
+	"electors":[
+		{"id":"tagName","value":"DIV","score":0.01},
+		{"id":"class","value":"csui-heading","score":0.15},
+		{"id":"text","value":{"text":"Document list","tagName":"DIV"},"score":0.4},
+		{"id":"leaf","value":true,"score":0.01}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 16,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 296,
+						"class": 12,
+						"text": 5,
+						"leaf": null
+				},
+				"secondaryScore": 0.17499825000000002,
+				"totalCandidates": 10
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"DIV"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Document list"}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["csui-heading"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 296,
+						"text": 5,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject><testObject testObjId="testObj:{1262b8ad-6712-e39a-3289-dd0a661b2889}" platform="web" autoName="Outer Border"><roles><role>element</role></roles><idents active="Electors"><ident type="XPath"><![CDATA[{
+"primaryScore":1,
+"notVisible":true,
+"implData":{
+	"value":"(/html/body/div[2]/div/div[2]/div/div[1])[1]",
+	"suggestions":["(/html/body/div[2]/div/div[2]/div/div[1])[1]"],
+	"jsSuggestion":"evalXPath(\"(/html/body/div[2]/div/div[2]/div/div[1])[1]\");"
+	
+}
+}]]></ident><ident type="Electors"><![CDATA[{
+"primaryScore":0.617613985,
+"notVisible":true,
+"implData":{
+	"ctxScore":0.5,
+	"electors":[
+		{"id":"tagName","value":"DIV","score":0.01},
+		{"id":"class","value":"outer-border","score":0.15},
+		{"id":"text","value":{"text":"Loading","tagName":"DIV"},"score":0.4},
+		{"id":"leaf","value":false,"score":0.01},
+		{"id":"style/background-image","value":{"bkImg":"radial-gradient(circle, rgba(255, 255, 255, 0) 20px, rgb(255, 255, 255) 21px)"},"score":0.15},
+		{"id":"position","value":{"pos":"absolute"},"score":0.1}
+	],
+	"secondaryData":{
+		"default": {
+				"totalObjs": 43,
+				"maxObjsPerElector": 200,
+				"total": {
+						"tagName": 43,
+						"class": 1,
+						"text": 5,
+						"leaf": null,
+						"style/background-image": null,
+						"position": null
+				},
+				"secondaryScore": 0.257497425,
+				"totalCandidates": 7
+		}
+}
+}
+}]]></ident><ident type="Descriptors"><![CDATA[{
+"primaryScore":1,
+"notVisible":true,
+"implData":{
+	"ctxScore":0,
+	"userModified":false,
+	"expression":
+		{"op":"and",
+		"active":true,
+		"args":[
+			{"op":"equalsIgnoreCase",
+			"active":true,
+			"descriptor":"tagName",
+			"args":[
+				{"op":"property", "args":"tagName"},
+				{"op": "value", "args":"DIV"}
+			]
+			},
+			{"op":"equals",
+			"active":true,
+			"descriptor":"text",
+			"args":[
+				{"op":"property", "args":"text"},
+				{"op": "value", "args":"Loading.."}
+			]
+			},
+			{"op":"contained",
+			"active":true,
+			"descriptor":"class",
+			"args":[
+				{"op":"property", "args":"class"},
+				{"op": "value", "args":["outer-border"]}
+			]
+			}
+		]
+		},
+	"secondaryData":{
+		"default": {
+				"maxObjsPerDescriptor": 200,
+				"total": {
+						"tagName": 43,
+						"text": 5,
+						"class": 1
+				},
+				"totalCandidates": 1
+		}
+}
+}
+}]]></ident></idents></testObject></testObjects>
+<transactions><transaction name="T1_Login"><vertex type="start" progressType="Step started" step="step:{2c20eaa7-3b33-8733-46fc-1fd3b9b78330}"/><vertex type="end" progressType="After step ended" step="step:{ee32c7a4-12af-b035-1c4b-9d28d7c02dd5}"/></transaction><transaction name="T0_LoginScreen"><vertex type="start" progressType="Step started" step="step:{cde60821-d675-fd48-3a1e-10b40bf2300e}"/><vertex type="end" progressType="After step ended" step="step:{40ee5419-767a-42f7-811d-104b0203563a}"/></transaction></transactions>
+</truLibrary>

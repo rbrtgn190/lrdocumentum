@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0
+Project("6ABDA016-36D6-47B3-BC35-4B4D1B6F0352") = "D2Preview", "D2Preview\D2Preview.usr", "6ABDA016-36D6-47B3-BC35-4B4D1B6F0352"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XGRldlxscmRvY3VtZW50dW1cRDJQcmV2aWV3XEQyUHJldmlldy51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDJQcmV2aWV3LnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjQtMDYtMTBUMTI6NTE6MzkuMjI1MDc2MSswMDowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+AAAAAAAAAAAAAAAAAA__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Project("B3C3862C-D075-4D46-B988-B457065E6245") = "D2Connect", "D2Connect\D2Connect.usr", "B3C3862C-D075-4D46-B988-B457065E6245"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XGRldlxscmRvY3VtZW50dW1cRDJDb25uZWN0XEQyQ29ubmVjdC51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDJDb25uZWN0LnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjQtMDYtMTBUMTI6NTE6NDUuMzIyOTE2NyswMDowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+AAAAAAAAAAAAAAAAAA__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		6ABDA016-36D6-47B3-BC35-4B4D1B6F0352.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6ABDA016-36D6-47B3-BC35-4B4D1B6F0352.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6ABDA016-36D6-47B3-BC35-4B4D1B6F0352.Release|Any CPU.Build.0 = Release|Any CPU
+		6ABDA016-36D6-47B3-BC35-4B4D1B6F0352.Release|Any CPU.ActiveCfg = Release|Any CPU
+		B3C3862C-D075-4D46-B988-B457065E6245.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B3C3862C-D075-4D46-B988-B457065E6245.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B3C3862C-D075-4D46-B988-B457065E6245.Release|Any CPU.Build.0 = Release|Any CPU
+		B3C3862C-D075-4D46-B988-B457065E6245.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
