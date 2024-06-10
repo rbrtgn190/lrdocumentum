@@ -22,9 +22,11 @@
     <FileEntry Name="TC.xsl" Filter="2" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="2" />
     <FileEntry Name="TCIEAuthenticationFilters.ini" Filter="2" />
+    <FileEntry Name="user_modified_perfs.json" Filter="2" />
     <FileEntry Name="combined_D2Preview.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="Libraries\" Filter="2" />
+    <FileEntry Name="profiles\" Filter="2" />
     <FileEntry Name="28868562440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -34,6 +36,7 @@
     <FileEntry Name="default.cfg.bak" Filter="1" />
     <FileEntry Name="Docum_preview.prm.bak" Filter="1" />
     <FileEntry Name="interactive_replay_Chromium.txt" Filter="1" />
+    <FileEntry Name="interactive_replay_TruClientBrowser.txt" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
@@ -48,6 +51,7 @@
     <FileEntry Name="URL2.dat" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="Backup\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
     <FileEntry Name="results\" Filter="1" />
     <FileEntry Name="resultSnap\" Filter="1" />
   </GeneralFiles>
